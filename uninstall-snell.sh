@@ -5,4 +5,4 @@ systemctl stop snell
 systemctl disable snell
 rm -f /etc/systemd/system/snell.service
 rm -f /usr/bin/snell-server
-rm -rf /etc/snell/
+rm -rf /etc/snell
